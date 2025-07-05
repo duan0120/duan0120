@@ -7,6 +7,7 @@
 - [在线开发者工具箱（devutils)](https://www.devutils.top): 为开发者而生的在线工具箱，目前功能还比较少，还在积极迭代。
 - [xvm](https://github.com/duan0120/xvm): 版本管理工具，目前支持了python，go，node.js, 可以在 linux/macos的同一台系统上管理python，go，node.js的多个版本，其他也在考虑，如有需要联系我添加
 - [xvm for windows](https://github.com/duan0120/xvm-windows): xvm 的windows版本。
+- [TwitterXVideo](https://twittervideoindir.com):下载、编辑、翻译和重新发布 — 一站式搞定的Twitter Video Downloader。免费且无需注册。
 
 ## 如何找到我
 
