@@ -11,6 +11,6 @@
 
 ## 如何找到我
 
-E-mail: feedback@crazykids.tech
-Github: [duan0120](https://github.com/duan0120)
-vx：wulalatalk
+E-mail: feedback@crazykids.tech  
+Github: [duan0120](https://github.com/duan0120)  
+vx：wulalatalk  
