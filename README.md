@@ -8,6 +8,7 @@
 - [xvm](https://github.com/duan0120/xvm): 版本管理工具，目前支持了python，go，node.js, 可以在 linux/macos的同一台系统上管理python，go，node.js的多个版本，其他也在考虑，如有需要联系我添加
 - [xvm for windows](https://github.com/duan0120/xvm-windows): xvm 的windows版本。
 - [TwitterXVideo](https://twittervideoindir.com):Download Twitter Video 下载、编辑、翻译和重新发布 — 一站式搞定的Twitter Video Downloader。免费且无需注册。
+- [乘风客的分享](https://crazykids.tech): 分享前沿技术、AI信息、实用网站、爆款应用、学习资料、视频资料等
 
 ## 如何找到我
 
