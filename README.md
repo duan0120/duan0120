@@ -9,6 +9,7 @@
 - [Download Twitter Video](https://github.com/devutils-online/twitterxvideo): Download Twitter Video 下载、编辑、翻译和重新发布 — 一站式搞定的Twitter Video Downloader。免费且无需注册。
 - [乘风客的分享](https://crazykids.tech): 分享前沿技术、AI信息、实用网站、爆款应用、学习资料、视频资料等
 - [Brat Generator | Brat-Gen](https://github.com/devutils-online/brat-gen): Brat-Gen - Free Brat Generator for Custom Covers
+- [Black Screen](https://github.com/devutils-online/blackscreen):Black Screen - Fullscreen Focus, OLED & Pixel Testing
 
 ## 如何找到我
 
