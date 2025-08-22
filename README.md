@@ -10,6 +10,7 @@
 - [乘风客的分享](https://crazykids.tech): 分享前沿技术、AI信息、实用网站、爆款应用、学习资料、视频资料等
 - [Brat Generator | Brat-Gen](https://github.com/devutils-online/brat-gen): Brat-Gen - Free Brat Generator for Custom Covers
 - [Black Screen](https://github.com/devutils-online/blackscreen): Fullscreen Focus, OLED & Pixel Testing
+- [String Art Generator](https://github.com/devutils-online/stringartgenerator): Free Online Pattern Creator
 
 ## 如何找到我
 
